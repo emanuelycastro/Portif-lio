@@ -1,0 +1,43 @@
+body{
+        background-color: #d3f4a1;
+      }
+    
+    .corpo {
+        width: 960px;
+        margin: auto;
+    }
+    
+    .conteudo {
+        display: table;
+        width: 800px;
+    }
+    
+    .imagem {
+        display: table-cell;
+        float: left;
+    }  
+    
+    .texto {
+        display: table-cell;
+        float: left;
+        width: 400px;
+        margin-top: 90px; 
+        margin-left: 140px;
+    }
+    
+    .titulo-principal {
+        background-color: rgb(193, 202, 8);
+        color: rgb(35, 4, 127);
+        max-width: 800px;
+        margin: 0 auto;
+        text-align: center;
+        padding: 20px;
+        box-shadow: 15px 10px rgb(37, 4, 249);
+      }
+    
+      .contato-lista{
+        background-color: rgb(215, 243, 6);
+        color: rgb(251, 255, 9);
+        max-width: 900px;
+        margin: 0 auto;
+        text-align: center;
